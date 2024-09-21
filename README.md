@@ -1,7 +1,8 @@
 This is a Final Project I submitted for Sophia University's "Introduction to Python" course.
 It was originally hosted on Replit since the course required that I use Replit for development.
-Jump to Line 54 to understand what my code and project does.
-Read Lines 8 to 52 to understand why the currently existing Just Intonation Calculators did not meet my needs.
+Where it says "Preview | Code | Blame", click on "Code" so you can read this README with the lines numbered.
+Jump to Line 55 to understand what my code and project does.
+Read Lines 9 to 53 to understand why the currently existing Just Intonation Calculators did not meet my needs.
 
 What makes this Just Intonation Calculator different from other similar projects is the workflow.
 
